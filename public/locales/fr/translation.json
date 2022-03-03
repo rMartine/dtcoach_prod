@@ -1,0 +1,94 @@
+{
+	"general": {
+		"continue": "Continuer",
+		"accept": "Accepter",
+		"cancel": "Annuler",
+		"confirm": "Confirmer"
+	},
+	"welcome-page": {
+		"title": "Bienvenue sur DTCoach!",
+		"p1": "Merci pour votre aide au test de l'application DTCoach. Cette application vous aidera à effectuer des exercices d'étirement et d'accroupissement à l'aide de l'apprentissage machine pour suivre votre pose moyennant la caméra de votre appareil. Cette application n'enregistre pas de vidéo, elle suit uniquement votre pose et note votre performance à l'exercice.",
+		"p2": "SVP effectuer trois ou quatre routines à partir de la liste fournie par l'application avant de l'évaluer. Chaque exercice dure 30 ou 55 secondes; au total, il vous faudrait de 5 à 7 min au maximum pour effectuer les exercices et terminer l'évaluation. Essayez de vous tenir 2 à 3 mètres de la caméra pendant les exercices!",
+		"p3": "Reste calme! Nous n'utilisons pas la caméra pour enregistrer une session, nous l'utilisons uniquement pour suivre votre pose pendant que vous vous entraînez. Nous apprécions votre vie privée."
+	},
+	"sign-up-page": {
+		"title": "S'enregistrer",
+		"name": "Nom",
+		"email": "Courriel",
+		"password": "Mot de passe",
+		"confirm-password": "Confirmer mot de passe",
+		"sign-up": "S'enregistrer",
+		"as-guest": "Se connecter en tant qu'invité",
+		"with-google": "Se connecter avec Google",
+		"match": "Les mots de passe ne correspondent pas",
+		"profile-exists": "Cet e-mail a déjà été enregistré.",
+		"password-length": "Les mots de passe doivent comporter au moins 8 caractères.",
+		"name-length": "Le nom doit comporter au moins 3 caractères."
+	},
+	"sign-as-guest-page": {
+		"title": "Créer un compte invité",
+		"name": "Nom",
+		"dialog": "Créer un compte pour \"{{name}}\"?",
+		"warning": "AVERTISSEMENT: les comptes d'invité n'ont pas besoin de mot de passe car ils sont enregistrés sur votre appareil, mais vous ne pourrez pas récupérer vos données sur un autre appareil.",
+		"create": "Créer"
+	},
+	"select-language-dialog": {
+		"title": "Sélectionnez la langue"
+	},
+	"select-profile-page": {
+		"title": "Sélectionner un profil",
+		"create": "Créer un profil",
+		"name": "Nom",
+		"delete": "Supprimer le profil",
+		"delete-confirm": "Voulez-vous vraiment supprimer le profil de \"{{name}}\"?",
+		"empty-list": " Créez votre profil avec le bouton \"+\" ci-dessous",
+		"sign-in": "se connecter"
+	},
+	"main-page": {
+		"videos": "Vidéos",
+		"settings": "Configuration",
+		"modeling": "Modélisation"
+	},
+	"select-video-page": {
+		"title": "Sélectionnez vidéo",
+		"duration": "Durée",
+		"creator": "Créateur",
+		"preview": "Sélectionnez cette vidéo?"
+	},
+	"training-page": {
+		"title": "Entraînement",
+		"click-camera": "Cliquez ici d'abord pour démarrer la caméra.",
+		"click-coach": "Cliquez ici pour démarrer la vidéo de l'entraîneur lorsque vous êtes prêt à commencer.",
+		"dialog-title": "Préparez-vous!",
+		"dialog-text": "Veuillez rester à 2 ou 3 mètres de la caméra afin que tout votre corps soit dans le cadre.",
+		"score": "SCORE",
+		"distance-warning": "Veuillez rester à 2 ou 3 mètres de la caméra."
+	},
+	"training-summary-page": {
+		"title": "Résumé de l'entraînement",
+		"score": "Score",
+		"time": "Temps",
+		"graph-desc": "Voici votre performance durant l'entraînement",
+		"evaluate-system": "Évaluer le système",
+		"select-video": "Sélectionnez une vidéo",
+		"evaluation-url": "https://forms.gle/YCLNvpQYzTKzSiDk8"
+	},
+	"settings-page": {
+		"sign-out": "Déconnexion",
+		"language": "Langue",
+		"about": "À propos",
+		"title": "Réglages",
+		"change-profile": "Change de profil"
+	},
+	"sign-in-page": {
+		"wrong-credentials": "Mauvais email ou mot de passe.",
+		"with-google": "Connectez-vous avec Google",
+		"title": "Se connecter",
+		"sign-up": "Créer un nouveau compte",
+		"sign-in": "se connecter",
+		"password": "Mot de passe",
+		"email": "Email",
+		"as-guest": "Inscrivez-vous en tant qu'invité",
+		"anon": "Connectez-vous anonymement"
+	}
+}

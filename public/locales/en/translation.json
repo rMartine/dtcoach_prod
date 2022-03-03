@@ -1,0 +1,122 @@
+{
+	"general": {
+		"continue": "Continue",
+		"accept": "Accept",
+		"cancel": "Cancel",
+		"confirm": "Confirm"
+	},
+	"welcome-page": {
+		"title": "Welcome to DTCoach!",
+		"p1": "Thank you for your help in testing the DTCoach app. This application will help you improve your performance in stretching and squatting exercises using Machine Learning to track your pose using your device's camera. It does not record video, it only tracks your pose and scores your performance of the exercise.",
+		"p2": "Please perform three or four routines from the given list before evaluating it. Each exercise is 30s or 55s long; in total it would take you 7 min at most to perform the exercises and complete the evaluation. Try to stay 2-3 meters away from the camera while doing the exercises!",
+		"p3": "Stay calm! We do not use the camera to record any session, we only use it to track your pose while you are training. We value your privacy."
+	},
+	"sign-up-page": {
+		"title": "Sign up",
+		"name": "Name",
+		"email": "Email",
+		"password": "Password",
+		"confirm-password": "Confirm password",
+		"sign-up": "Create account",
+		"as-guest": "Sign up as guest",
+		"with-google": "Sign in with Google",
+		"match": "Passwords do not match.",
+		"password-length": "Passwords must be at least 8 characters long.",
+		"name-length": "Name must be at least 3 characters long.",
+		"profile-exists": "This email already has been registered."
+	},
+	"sign-in-page": {
+		"title": "Sign in",
+		"email": "Email",
+		"password": "Password",
+		"sign-in": "Sign in",
+		"as-guest": "Sign up as guest",
+		"with-google": "Sign in with Google",
+		"sign-up": "Create new account",
+		"wrong-credentials": "Wrong email or password.",
+		"anon": "Sign in anonymously"
+	},
+	"sign-as-guest-page": {
+		"title": "Create guest account",
+		"name": "Name",
+		"dialog": "Create account for \"{{name}}\"?",
+		"warning": "WARNING: Guest accounts do not require password because they are saved on your device, but you will not be able to recover your data on another device.",
+		"create": "Create"
+	},
+	"select-language-dialog": {
+		"title": "Select language"
+	},
+	"select-profile-page": {
+		"title": "Select profile",
+		"create": "Create profile",
+		"name": "Name",
+		"delete": "Delete profile",
+		"delete-confirm": "Are you sure you want to delete the profile of \"{{name}}\"?",
+		"empty-list": "No profiles on this device.",
+		"sign-in": "Sign in"
+	},
+	"main-page": {
+		"videos": "Videos",
+		"settings": "Settings",
+		"modeling": "Modeling"
+	},
+	"select-video-page": {
+		"title": "Select video",
+		"duration": "Duration",
+		"creator": "Creator",
+		"preview": "Select this video?"
+	},
+	"training-page": {
+		"title": "Training",
+		"click-camera": "Click here first to start the camera.",
+		"click-coach": "Click here to start the coach video when you are ready to begin exercising.",
+		"dialog-title": "Prepare yourself!",
+		"dialog-text": "Please stay 2 or 3 meters away from the camera so your whole body is within frame.",
+		"score": "SCORE",
+		"distance-warning": "Please stay 2 or 3 meters away from the camera."
+	},
+	"training-summary-page": {
+		"title": "Training Summary",
+		"score": "Score",
+		"time": "Time",
+		"graph-desc": "This is your performance during the training",
+		"evaluate-system": "Evaluate system",
+		"select-video": "Select video",
+		"evaluation-url": "https://forms.gle/R87jPe3siqrRgxKq9"
+	},
+	"settings-page": {
+		"title": "Settings",
+		"language": "Language",
+		"about": "About",
+		"change-profile": "Change profile",
+		"sign-out": "Sign out",
+		"profile": "Profile"
+	},
+	"profile-page": {
+		"title": "Profile",
+		"name": "Name",
+		"email": "Email",
+		"height": "Height",
+		"gender": "Gender",
+		"male": "Male",
+		"female": "Female",
+		"other": "Other",
+		"age-range": "Age range",
+		"proportions": "Body proportions",
+		"captured": "Captured",
+		"not-captured": "Not captured",
+		"capture": "Capture",
+		"capture-message": "Changes saved. Please capture proportions.",
+		"save": "Save",
+		"capture-proportions-question": "Capture proportions?"
+	},
+	"proportions-page": {
+		"title": "Body proportions capture",
+		"instructions": "INSTRUCTIONS: Please stand in front of the camera assuming a T-pose. Ask for help if needed.",
+		"status-not-found": "STATUS: Person not found.",
+		"status-not-complete": "STATUS: Full body incomplete.",
+		"status-not-t-pose": "STATUS: Please stand in T-pose.",
+		"status-scanning": "STATUS: Scanning...",
+		"status-scan-complete": "STATUS: Scan completed!"
+	}
+}

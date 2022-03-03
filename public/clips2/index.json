@@ -1,0 +1,58 @@
+[
+	{
+		"id": "arm_cross_shoulder_stretch",
+		"title": "Arm cross shoulder stretch",
+		"title_en": "Arm cross shoulder stretch",
+		"title_es": "Estiramiento de hombro a brazo cruzado",
+		"title_fr": "Bras croisé extensible aux épaules",
+		"url": "clips/arm_cross_shoulder_stretch.mp4",
+		"pose_file_url": "clips/arm_cross_shoulder_stretch.json",
+		"thumb_url": "clips/arm_cross_shoulder_stretch.png",
+		"duration": 31,
+		"original_url": "https://youtu.be/XewzQ9MRDh8",
+		"original_title": "Kelli's Quick Cool Down and Stretch - Feel Good Stretching Routine for Morning or Night",
+		"original_creator": "FitnessBlender"
+	},
+	{
+		"id": "inside_thigh_stretch",
+		"title": "Inside thigh stretch",
+		"title_en": "Inside thigh stretch",
+		"title_es": "Estiramiento interno del muslo",
+		"title_fr": "Étirement à l'intérieur de la cuisse",
+		"url": "clips/inside_thigh_stretch.mp4",
+		"pose_file_url": "clips/inside_thigh_stretch.json",
+		"thumb_url": "clips/inside_thigh_stretch.png",
+		"duration": 33,
+		"original_url": "https://youtu.be/XewzQ9MRDh8",
+		"original_title": "Kelli's Quick Cool Down and Stretch - Feel Good Stretching Routine for Morning or Night",
+		"original_creator": "FitnessBlender"
+	},
+	{
+		"id": "standing_quad_stretch",
+		"title": "Standing quad stretch",
+		"title_en": "Standing quad stretch",
+		"title_es": "Estiramiento de pierna de pie",
+		"title_fr": "Étirement quad debout",
+		"url": "clips/standing_quad_stretch.mp4",
+		"pose_file_url": "clips/standing_quad_stretch.json",
+		"thumb_url": "clips/standing_quad_stretch.png",
+		"duration": 29,
+		"original_url": "https://youtu.be/XewzQ9MRDh8",
+		"original_title": "Kelli's Quick Cool Down and Stretch - Feel Good Stretching Routine for Morning or Night",
+		"original_creator": "FitnessBlender"
+	},
+	{
+		"id": "triple_dip_squat",
+		"title": "Triple dip squat",
+		"title_en": "Triple dip squat",
+		"title_es": "Sentadilla triple",
+		"title_fr": "Squat triple trempette",
+		"url": "clips/triple_dip_squat.mp4",
+		"pose_file_url": "clips/triple_dip_squat.json",
+		"thumb_url": "clips/triple_dip_squat.png",
+		"duration": 55,
+		"original_url": "https://youtu.be/mGvzVjuY8SY",
+		"original_title": "The Most Effective Squat Challenge: 100 Rep Fitness Blender Squat Challenge",
+		"original_creator": "FitnessBlender"
+	}
+]

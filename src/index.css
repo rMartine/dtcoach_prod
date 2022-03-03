@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+html,
+body {
+	height: 100%;
+	background-color: white;
+	overflow-x: hidden;
+}
+#root {
+	height: 100%;
+	display: flex;
+	flex-flow: column;
+}

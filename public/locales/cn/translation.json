@@ -1,0 +1,94 @@
+{
+	"general": {
+		"continue": "继续",
+		"accept": "接受",
+		"cancel": "取消",
+		"confirm": "确认"
+	},
+	"welcome-page": {
+		"title": "欢迎使用DTCoach!",
+		"p1": "感谢您参与测试DTCoach.本软件将借助机器学习来提升您的拉伸和深蹲训练.在测试过程中,本软件会请求打开您的摄像头来对您的姿势打分,但是不会记录您的视频信息",
+		"p2": "请在提交评价前完成列表中的3~4组动作. 每组动作时长在30秒~55秒之间; 完成训练和填写评价总共需要约7分钟. 请在做运动时保持与摄像头2~3米远!",
+		"p3": "保持冷靜!我們不會使用相機記錄任何會話,而只會在您訓練時使用它來跟踪您的姿勢.我們重視您的隱私."
+	},
+	"sign-up-page": {
+		"title": "注册",
+		"name": "姓名",
+		"email": "邮箱",
+		"password": "密码",
+		"confirm-password": "确认密码",
+		"sign-up": "注册",
+		"as-guest": "访客注册",
+		"with-google": "谷歌注册",
+		"match": "密码错误",
+		"profile-exists": "该电子邮件已经被注册.",
+		"password-length": "密码必须至少8个字符长.",
+		"name-length": "名称必须至少3个字符长."
+	},
+	"sign-as-guest-page": {
+		"title": "创建访客账号",
+		"name": "姓名",
+		"dialog": "创建访客账号\"{{name}}\"?",
+		"warning": "警告：访客账号不需要密码因为密码已经自动储存在您的设备中,但是在其他设备中无法恢复您的数据.",
+		"create": "创建"
+	},
+	"select-language-dialog": {
+		"title": "选择语言"
+	},
+	"select-profile-page": {
+		"title": "选择个人资料",
+		"create": "创建个人资料",
+		"name": "姓名",
+		"delete": "删除个人资料",
+		"delete-confirm": "确认删除 \"{{name}}\"的个人资料?",
+		"empty-list": "点击下方\"+\" 键来创建您的个人资料.",
+		"sign-in": "登入"
+	},
+	"main-page": {
+		"videos": "视频",
+		"settings": "设置",
+		"modeling": "造型"
+	},
+	"select-video-page": {
+		"title": "选择视频",
+		"duration": "时长",
+		"creator": "创建者",
+		"preview": "选择此视频?"
+	},
+	"training-page": {
+		"title": "训练",
+		"click-camera": "点击此处打开摄像头.",
+		"click-coach": "当您准备好时,点击此处开始播放示范视频.",
+		"dialog-title": "做好准备!",
+		"dialog-text": "请与摄像头保持2~3米远以保证拍摄全身.",
+		"score": "得分",
+		"distance-warning": "请与摄像头保持2~3米远."
+	},
+	"training-summary-page": {
+		"title": "训练总结",
+		"score": "得分",
+		"time": "用时",
+		"graph-desc": "这是训练过程中您的表现",
+		"evaluate-system": "评价此系统",
+		"select-video": "选择视频",
+		"evaluation-url": "https://forms.gle/R87jPe3siqrRgxKq9"
+	},
+	"settings-page": {
+		"sign-out": "登出",
+		"language": "语言",
+		"about": "關於",
+		"title": "设定值",
+		"change-profile": "变更个人资料"
+	},
+	"sign-in-page": {
+		"wrong-credentials": "电子邮箱或者密码错误.",
+		"with-google": "使用Google登录",
+		"title": "登入",
+		"sign-up": "建立新帐户",
+		"sign-in": "登入",
+		"email": "邮箱",
+		"password": "密码",
+		"as-guest": "以访客身份注册",
+		"anon": "匿名"
+	}
+}

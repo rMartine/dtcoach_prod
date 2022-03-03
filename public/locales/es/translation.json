@@ -1,0 +1,94 @@
+{
+  "welcome-page": {
+    "title": "Bienvenid@ a DTCoach!",
+    "p1": "Gracias por su ayuda en probar la aplicación DTCoach. Esta aplicación le ayudará a mejorar su rendimiento en ejercicios de estiramiento y sentadillas con Machine Learning para seguir su pose con la cámara de tu dispositivo. No graba video, solo rastrea su pose y califica su rendimiento del ejercicio.",
+    "p2": "Realice tres o cuatro rutinas de la lista dada antes de evaluar la app. Cada ejercicio dura 30 o 55 segundos; en total, le tomaría 7 minutos como máximo realizar los ejercicios y completar la evaluación. ¡Intente mantenerse a 2-3 metros de la cámara mientras haga los ejercicios!",
+    "p3": "Esté tranquilo! No usamos la cámara para grabar la sesión, sólo la usamos para rastrear su posición mientras realiza los ejercicios. Valoramos su privacidad."
+  },
+  "select-language-dialog": {
+    "title": "Seleccione idioma"
+  },
+  "general": {
+    "accept": "Aceptar",
+    "cancel": "Cancelar",
+    "continue": "Continuar",
+    "confirm": "Confirmar"
+  },
+  "main-page": {
+    "videos": "Videos",
+    "settings": "Configuración",
+    "modeling": "Modelar"
+  },
+  "select-profile-page": {
+    "create": "Crear perfil",
+    "delete": "Borrar perfil",
+    "delete-confirm": "¿Está seguro de que desea eliminar el perfil de \"{{name}}\"?",
+    "name": "Nombre",
+    "title": "Seleccionar perfil",
+    "empty-list": "Cree un nuevo perfil con el botón \"+\" abajo.",
+    "sign-in": "Registrarse"
+  },
+  "select-video-page": {
+    "creator": "Creador",
+    "duration": "Duración",
+    "preview": "Seleccionar video?",
+    "title": "Seleccionar video"
+  },
+  "settings-page": {
+    "sign-out": "Salir",
+    "language": "Idioma",
+    "about": "Acerca de",
+    "title": "Configuraciones",
+    "change-profile": "Cambiar el perfil"
+  },
+  "sign-as-guest-page": {
+    "create": "Crear",
+    "dialog": "¿Crear cuenta para \"{{name}}\"?",
+    "name": "Nombre",
+    "title": "Crear cuenta de invitado",
+    "warning": "ADVERTENCIA: las cuentas de invitado no requieren contraseña porque están guardadas en su dispositivo, pero no podrá recuperar sus datos en otro dispositivo."
+  },
+  "sign-up-page": {
+    "as-guest": "Acceder como invitado",
+    "confirm-password": "Confirmar contraseña",
+    "email": "Correo electrónico",
+    "match": "Las contraseñas no coinciden",
+    "name": "Nombre",
+    "password": "Contraseña",
+    "sign-up": "Registrarse",
+    "title": "Registrarse",
+    "with-google": "Acceder con Google",
+    "profile-exists": "Este correo electrónico ya ha sido registrado.",
+    "password-length": "Las contraseñas deben tener al menos 8 caracteres.",
+    "name-length": "El nombre debe tener al menos 3 caracteres."
+  },
+  "training-page": {
+    "click-camera": "Haga clic aquí primero para iniciar la cámara.",
+    "click-coach": "Haga clic aquí para comenzar el video del entrenador cuando esté listo para comenzar a hacer ejercicio.",
+    "dialog-text": "Manténgase a 2 o 3 metros de la cámara para que todo su cuerpo esté dentro del marco.",
+    "dialog-title": "¡Prepárate!",
+    "distance-warning": "Manténgase a 2 o 3 metros de la cámara.",
+    "score": "PUNTOS",
+    "title": "Entrenamiento"
+  },
+  "training-summary-page": {
+    "evaluate-system": "Evaluar sistema",
+    "graph-desc": "Este es su desempeño durante el entrenamiento",
+    "score": "Puntuación",
+    "select-video": "Seleccionar video",
+    "time": "Hora",
+    "title": "Resumen del entrenamiento",
+    "evaluation-url": "https://forms.gle/c5o8purgQRNnT32q9"
+  },
+  "sign-in-page": {
+    "wrong-credentials": "Correo o contraseña equivocada.",
+    "with-google": "Inicia sesión con Google",
+    "title": "Registrarse",
+    "sign-up": "Crear una nueva cuenta",
+    "sign-in": "Registrarse",
+    "password": "Contraseña",
+    "email": "Correo electrónico",
+    "as-guest": "Registrarse como invitado",
+    "anon": "Iniciar sesión en forma anónima"
+  }
+}
