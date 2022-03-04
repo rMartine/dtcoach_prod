@@ -14,12 +14,12 @@ import { GlobalContextWrapper } from 'context/GlobalContext';
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import CssBaseline from '@material-ui/core/CssBaseline';
-import { createMuiTheme } from '@material-ui/core/styles';
+import { createTheme } from '@material-ui/core/styles';
 import { makeStyles } from '@material-ui/core/styles';
 import { ThemeProvider } from '@material-ui/styles';
 
 export default function App() {
-	const theme = createMuiTheme({
+	const theme = createTheme({
 		palette: {
 			primary: {
 				main: '#29388e',
@@ -28,7 +28,9 @@ export default function App() {
 	});
 
 	const classes = useStyles();
-
+	React.useEffect(() => {
+		console.log(process.env.PUBLIC_URL);
+	}, []);
 	return (
 		<React.Suspense fallback={<div>Loading...</div>}>
 			<GlobalContextWrapper>

@@ -26,7 +26,7 @@ i18n
 			wait: true,
 		},
 		backend: {
-			loadPath: '/dtcoach/locales/{{lng}}/{{ns}}.json',
+			loadPath: '/locales/{{lng}}/{{ns}}.json',
 		},
 	});
 
