@@ -306,7 +306,8 @@ export default function Display(props) {
 		let vid = vidRef.current;
 		if (vid) {
 			let currentTime = vid.currentTime;
-			let currentProgress = parseInt((currentTime / vid.duration) * 100);
+			const vidDuration = props.videoDuration ? props.videoDuration : vid.duration;
+			let currentProgress = parseInt((currentTime / vidDuration) * 100);
 			if (isMounted()) {
 				setProgress(currentProgress);
 				if (props.onProgress) {

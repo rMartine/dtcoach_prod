@@ -191,6 +191,7 @@ export default function TrainingPage() {
 							onProgress={(p) => setProgress(p)}
 							enableVideo={true}
 							label={t('training-page.click-coach')}
+							videoDuration={video?.duration}
 						/>
 					</Paper>
 				</Grid>

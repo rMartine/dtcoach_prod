@@ -11,6 +11,17 @@
 		"original_creator": "FitnessBlender"
 	},
 	{
+		"id": "routine_short",
+		"title": "Routine (Short)",
+		"title_en": "Routine (Short)",
+		"title_es": "Rutina (Corta)",
+		"url": "clips/routine.mp4",
+		"pose_file_url": "clips/routine.json",
+		"thumb_url": "clips/routine.png",
+		"duration": 81,
+		"original_creator": "FitnessBlender"
+	},
+	{
 		"id": "arm_cross_shoulder_stretch",
 		"title": "Arm cross shoulder stretch (Test)",
 		"title_en": "Arm cross shoulder stretch (Test)",
